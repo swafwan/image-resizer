@@ -27,7 +27,7 @@ Python 3.10 ,Typer,PLI
 3.enter the command for image resizing or image converting
 4.enter the image name with  extension
 5.enter the image format
- .OR enter the new image hight
+ .OR enter the new image height
      enter the new image width
 6.the resized/converted image will be saved to the same folder
 ##How to configure
