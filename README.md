@@ -16,7 +16,7 @@ python3 imgProcessor.py imgformat
 1.Muhammad Swafwan [https://github.com/swafwan]
 2.Hanna Marjan V [https://github.com/HannaMarjanV]
 ##Team Id
-Python/286
+Python / 286
 ##Link to product walkthrough
 https://bit.ly/3tQSY4I
 ##Libraries used
